@@ -7,7 +7,7 @@ I am a fourth-year student majoring in Computer Science at the International Uni
 
 ## My Website
 
-<h3> <a href=https://phamducdat.id.vn/>phamducdat.id.vn</a> </h3>
+<h3> <a href=https://phamducdat.id.vn/ target=""_blank">phamducdat.id.vn</a> </h3>
 
 ## My usage
  
