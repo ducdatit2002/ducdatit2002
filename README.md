@@ -1,7 +1,13 @@
 # Hello, I’m Duc Dat!
 
-I am a fourth-year student majoring in Computer Science at the International University, Vietnam National University - Ho Chi Minh City. I have knowledge in full-stack development, Python, and I am currently studying AI. 
- 
+I am Pham Duc Dat, Bachelor’s degree classified as good at International University – VNU-HCM, with a strong passion for deep learning, self-supervised learning, computer vision, and multimodal machine learning. My academic journey has been marked by active research involvement, particularly as a Research Assistant and Head of Software & Product Development at AIoT Lab VN. I’ve had the opportunity to collaborate on several impactful projects, including an advanced educational assessment platform and various AI-driven applications.
+
+In addition to my research, I have practical experience in system development. At Seehan Digital Co., Ltd., I contributed to designing a warehouse management system that integrated AGV interaction and embedded hardware. I have authored and co-authored multiple scientific publications presented at reputable conferences such as MMM, IUKM, and ATAC, and received notable awards like the Best Paper Award at ATAC 2024 and the Second Prize at Swin Hackathon 2024.
+
+Beyond academics, I actively engage in student organizations and volunteer work, demonstrating strong teamwork and leadership. As a member of the Student Union and the IoT Club, I’ve contributed to both technical and community-focused initiatives. I am committed to leveraging my technical knowledge to address real-world problems, contribute to meaningful innovations, and continuously grow as a researcher and developer.
+
+I have 2 years of experience working as a AI Fullstack Developer and am currently conducting research in the field of Artificial Intelligence (AI). I am seeking opportunities to work in a challenging and dynamic environment where I can grow personally and professionally.
+
  <a href=https://www.linkedin.com/in/ducdatit2002/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href=https://www.facebook.com/datbenho84/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
 
